@@ -93,7 +93,7 @@ endmodule
 
 ![Screenshot 2024-09-18 104328](https://github.com/user-attachments/assets/5c8e57b5-2f82-499c-a370-1e3d760b8338)
 
-**RTL**
+**Timing Waveform**
 ![Screenshot 2024-09-18 104756](https://github.com/user-attachments/assets/f4913c8e-0c79-402c-bcf0-cd780ba778b1)
 
 **Result:**
